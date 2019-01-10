@@ -8,7 +8,7 @@
 <!ENTITY help.label "Hjälp">
 <!ENTITY website.label "Klicka här för att gå till tilläggets webbplats">
 <!ENTITY restart.label "* = kräver omstart för att verkställas">
-<!ENTITY defaultNewMsgMode.label "Starta adresseringen av nya och vidarebefordrade meddelanden med">
+<!ENTITY defaultNewMsgMode.label "Starta adresseringen av nya och vidarebefordrade meddelanden med:">
 <!ENTITY sendingEmail.label "När ett meddelande skickas">
 <!ENTITY composingEmail.label "När ett meddelande skrivs">
 <!ENTITY play.label "Spela upp ett varningsljud">

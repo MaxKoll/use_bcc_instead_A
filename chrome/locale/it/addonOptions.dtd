@@ -8,7 +8,7 @@
 <!ENTITY help.label "Guida">
 <!ENTITY website.label "Sito web dell'estensione">
 <!ENTITY restart.label "* = è necessario un riavvio per attivare l'impostazione">
-<!ENTITY defaultNewMsgMode.label "Per i destinatari dei nuovi messaggi e di quelli inoltrati utilizza">
+<!ENTITY defaultNewMsgMode.label "Per i destinatari dei nuovi messaggi e di quelli inoltrati utilizza:">
 <!ENTITY sendingEmail.label "In fase di invio di un messaggio">
 <!ENTITY composingEmail.label "In fase di composizione di un messaggio">
 <!ENTITY play.label "Avviso sonoro">

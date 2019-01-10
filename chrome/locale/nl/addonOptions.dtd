@@ -8,7 +8,7 @@
 <!ENTITY help.label "Help">
 <!ENTITY website.label "Klik hier om naar de website van de add-on te gaan">
 <!ENTITY restart.label "* = herstart nodig">
-<!ENTITY defaultNewMsgMode.label "Adressering van nieuwe en doorgestuurde berichten starten met">
+<!ENTITY defaultNewMsgMode.label "Adressering van nieuwe en doorgestuurde berichten starten met:">
 <!ENTITY sendingEmail.label "Wanneer e-mailbericht is verzonden">
 <!ENTITY composingEmail.label "Bij opstellen e-mailbericht">
 <!ENTITY play.label "Waarschuwingsgeluid afspelen">

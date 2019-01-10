@@ -8,7 +8,7 @@
 <!ENTITY help.label "Помоћ">
 <!ENTITY website.label "Матична страница додатка">
 <!ENTITY restart.label "* = потребно поново покренути да би измене биле примењене">
-<!ENTITY defaultNewMsgMode.label "Адресирање нових и прослеђених порука почни са">
+<!ENTITY defaultNewMsgMode.label "Адресирање нових и прослеђених порука почни са:">
 <!ENTITY sendingEmail.label "Када се порука пошаље">
 <!ENTITY composingEmail.label "Када се пише порука">
 <!ENTITY play.label "Пусти звук упозорења">

@@ -8,7 +8,7 @@
 <!ENTITY help.label "Ajuda">
 <!ENTITY website.label "Clique aqui para visitar o site deste complemento">
 <!ENTITY restart.label "* = necessário reiniciar para ter efeito">
-<!ENTITY defaultNewMsgMode.label "Iniciar mensagens novas e encaminhadas com">
+<!ENTITY defaultNewMsgMode.label "Iniciar mensagens novas e encaminhadas com:">
 <!ENTITY sendingEmail.label "Ao enviar mensagem">
 <!ENTITY composingEmail.label "Ao escrever mensagem">
 <!ENTITY play.label "Tocar o som de aviso">

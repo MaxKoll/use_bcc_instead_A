@@ -8,7 +8,7 @@
 <!ENTITY help.label "Nápověda">
 <!ENTITY website.label "Přejít na webovou stránku doplňku">
 <!ENTITY restart.label "* = aby se změny projevily změny, je třeba restart">
-<!ENTITY defaultNewMsgMode.label "Uvádět příjemce nové a přeposlané zprávy na začátku jako">
+<!ENTITY defaultNewMsgMode.label "Uvádět příjemce nové a přeposlané zprávy na začátku jako:">
 <!ENTITY sendingEmail.label "Při odesílání e-mailu">
 <!ENTITY composingEmail.label "Při vytváření e-mailu">
 <!ENTITY play.label "Přehrát varovný zvuk">

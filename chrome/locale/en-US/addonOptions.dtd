@@ -8,7 +8,7 @@
 <!ENTITY help.label "Help">
 <!ENTITY website.label "Click here to see this add-on&apos;s website">
 <!ENTITY restart.label "* = restart required to take effect">
-<!ENTITY defaultNewMsgMode.label "Start New and Forwarded Messages Addressing With">
+<!ENTITY defaultNewMsgMode.label "Start New and Forwarded Messages Addressing With:">
 <!ENTITY sendingEmail.label "When Email Is Sent">
 <!ENTITY composingEmail.label "When Composing Email">
 <!ENTITY play.label "Play warning sound">
